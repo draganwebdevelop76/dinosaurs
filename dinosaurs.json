@@ -1,0 +1,17 @@
+	[	
+	{ 
+	"name":"Tyrannosaurus Rex", 
+	"preiod": "Late Cretaceous"
+	},
+	
+	{ 
+	"name":"Stegosaurus", 
+	"preiod": "Late Jurassic"
+	},
+	
+	{ 
+	"name":"Plateosaurus", 
+	"preiod": "Triassic"
+	}
+	]
+
